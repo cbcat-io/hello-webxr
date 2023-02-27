@@ -1,78 +1,78 @@
 export default [
   {
-    title: '360 Panoramas',
-    description: 'Photographs wrapped around spheres provide an environment, but without stereo effect nor depth.',
+    title: 'Imatges 360',
+    description: 'Les fotografies 360 al voltant de les esferes proporcionen un entorn, però sense efecte estèreo ni profunditat.',
     offsety: 0.04
   },
   {
-    title: 'Xylophone Toy',
-    description: 'Example of object grabbing and simple interaction.',
+    title: 'Xilòfon',
+    description: 'Exemple de com agafar d\'objectes i interacció simple.',
     offsety: 0.04
   },
   {
-    title: '360 Stereo Panorama',
-    description: 'By using one photo for each eye, panoramas can have some depth and stereo effect.',
+    title: 'Imatges 360 estèreo',
+    description: 'Utilitzant una foto per a cada ull, les imatges 360 poden tenir algun efecte de profunditat i estèreo.',
     offsety: 0.03
   },
   {
-    title: 'Photogrammetry Room',
-    description: 'Example of an object created out of photographs using an automated software.',
+    title: 'Sala de fotogramometria',
+    description: 'Exemple d\'un objecte creat a partir de fotografies utilitzant un programari automatitzat.',
     offsety: 0.04
   },
   {
-    title: 'Twitter Feed',
-    description: 'Bringing external realtime data to an XR environment.',
+    title: 'Canal de Twitter',
+    description: 'Portar dades externes en temps real a un entorn XR.',
     offsety: 0.02
   },
   {
-    title: 'Vertigo Room',
-    description: 'An example of how this new medium can play with your perception and senses.',
+    title: 'Sala del vertigen',
+    description: 'Un exemple de com aquest nou mitjà pot jugar amb la vostra percepció i sentits.',
     offsety: 0.04
   },
   {
     title: 'Hello WebXR!',
-    description: 'A small compendium of interactions and little experiences introducing and celebrating the final specification of the WebXR API.\n \nMade by the Mozilla Mixed Reality team\nmixedreality.mozilla.org',
+    description: 'Un petit compendi d\'interaccions i petites experiències que introdueix i celebra l\'especificació final de l\'API WebXR.',
     offsety: 0.06
   },
   {
-    title: 'The Pink Robe. After the Bath',
-    description: 'Joaquín Sorolla, 1916\n208 x 126.5 cm. Oil on canvas.',
+    title: 'La roba rosa. Després del bany',
+    description: 'Joaquín Sorolla, 1916\n208 x 126.5 cm. Oli sobre llenç.',
   },
   {
-    title: 'The Garden of Earthly Delights',
-    description: 'Hieronymus Bosch, 1490 - 1510\n205.5 x 384.9 cm. Oil on oak panels.',
+    title: 'El Jardí de les Delícies Terrestres',
+    description: 'Hieronymus Bosch, 1490 - 1510\n205.5 x 384.9 cm. Oli sobre panells de roure.',
   },
   {
-    title: 'Self-Portrait',
-    description: 'Rembrandt van Rijn, 1659\n84.5 x 66 cm. Oil on canvas.',
+    title: 'Autoretrat',
+    description: 'Rembrandt van Rijn, 1659\n84.5 x 66 cm. Oli sobre llenç.',
   },
   {
-    title: 'The Dance Lesson',
-    description: 'Edgar Degas, 1879\n38 x 88 cm. Oil on canvas.',
+    title: 'La lliçó Dansa',
+    description: 'Edgar Degas, 1879\n38 x 88 cm. Oli sobre llenç.',
   },
   {
-    title: 'Gray Weather, Grande Jatte',
-    description: 'Georges Seurat, 1888\n71 x 66 cm. Oil on canvas.',
+    title: 'Temps gris, Grande Jatte',
+    description: 'Georges Seurat, 1888\n71 x 66 cm. Oli sobre llenç.',
     offsety: 0.04
   },
   {
-    title: 'Sound Room',
-    description: 'Showcase of positional audio, very useful on XR experiences.\nTry to find where the sounds come from!.',
+    title: 'Sala de so',
+    description: 'Mostra el lloc de l\'àudio posicional, molt útil en experiències XR.\nIntenteu per a trobar d\'on venen els sons!.',
     offsety: 0.04
   },
   {
-    title: 'Graffiti Wall',
-    description: 'Get close and spray the wall!.\nLet\'s collaborate on a full masterpiece.',
+    title: 'Mur de Graffiti',
+    description: 'Apropeu-vos i feu ruixar la paret! \nCol·laborem en una obra mestra completa.',
     offsety: 0.04
   },
   {
-    title: 'Paintings',
-    description: 'Real-scale paintings that can be inspected very closely using the controller.',
+    title: 'Pintures',
+    description: 'Pintures a escala real que es poden inspeccionar molt de prop utilitzant el controlador.',
     offsety: 0.04
   },
   {
-    title: 'WELCOME!',
-    description: 'Aim your controller and press the trigger to teleport around and interact with objects.\n\nWe currently have 3 rooms and 5 experiences to explore. Try them all!',
+    title: 'BENVINGUT!',
+    description: 'Apunteu el controlador i premeu el disparador per a teletransportar-vos i interactuar amb els objectes.\n\nEn aquest moment tenim 3 habitacions i 5 experiències per explorar. Proveu-los a tots!',
     offsety: 0.06
   }
 ];
