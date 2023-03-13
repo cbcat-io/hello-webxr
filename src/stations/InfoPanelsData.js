@@ -71,7 +71,7 @@ export default [
     offsety: 0.04
   },
   {
-    title: 'BENVINGUT!',
+    title: 'BENVINGUTS!',
     description: 'Apunteu el controlador i premeu el disparador per a teletransportar-vos i interactuar amb els objectes.\n\nEn aquest moment tenim 3 habitacions i 5 experiències per explorar. Proveu-los a tots!',
     offsety: 0.06
   }
