@@ -72999,7 +72999,7 @@ var pano = null,
     panel,
     panelText;
 const NUM_PANOS = 5;
-const DATA = ['Tiger and Turtle - Magic Mountain\nArt installation in Agerpark, Germany.', 'Hiking trail at Lake Byllesby Regional Park near Cannon Falls, USA.', 'Dellwiger Bach natural reserve in Dortmund, Germany.', 'Zapporthorn summit in Lepontine Alps, Switzerland.', 'Ruin of romanesque Paulinzella abbey (1106) in Thuringia, Germany.'];
+const DATA = ['Tigre i tortuga - Muntanya màgica\nInstal·lació artística a Agerpark, Alemanya.', 'Ruta de senderisme al parc regional del llac Byllesby a prop de Cannon Falls, EUA.', 'Reserva natural Dellwiger Bach a Dortmund, Alemanya.', 'Cim de Zapporthorn als Alps Lepontins, Suïssa.', 'Ruïna de l\'abadia romànica de Paulinzella (1106) a Turíngia, Alemanya.'];
 var panoMaterials = [];
 function setup(ctx) {
   const assets = ctx.assets;
@@ -73951,7 +73951,7 @@ __webpack_require__.r(__webpack_exports__);
   description: 'Pintures a escala real que es poden inspeccionar molt de prop utilitzant el controlador.',
   offsety: 0.04
 }, {
-  title: 'BENVINGUT!',
+  title: 'BENVINGUTS!',
   description: 'Apunteu el controlador i premeu el disparador per a teletransportar-vos i interactuar amb els objectes.\n\nEn aquest moment tenim 3 habitacions i 5 experiències per explorar. Proveu-los a tots!',
   offsety: 0.06
 }]);
